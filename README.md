@@ -29,6 +29,8 @@ I have used Python 3 in all the projects.<br> I am still working on this reposit
 <li><h3><b>Evaluation Metrics</li></h3></b>
 <p>Implementation of Evaluation Metrics like Confusion Matrix, Accuracy, Precision, Recall, F1-Score from Scratch and comparing the results with sklearn built-in functions for the same metrics.</p>
 
+<li><h3><b>Logistic Regression</b></h3></li>
+<p>Here, I have used the Iris dataset considering two 2 features and only 2 target variable to make the data linearly separable. I have hand-coded Logistics Regression algorithm and fitted on the dataset.</p>
 <li><h3><b>Naive Bayes</li></h3></b>
 <p> Here, I have used Pima Indian Diabetes Dataset. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. I have performed Exploratory Data Analysis on that dataset and fitted the Naive Bayes estimator using Scikit Learn to predict the target variable. </p>
 
