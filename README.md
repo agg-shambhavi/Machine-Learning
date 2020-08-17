@@ -4,9 +4,6 @@ I have used Python 3 in all the projects.<br> I am still working on this reposit
 
 # Contents
 <ol>
-<li><h3><b> Boston housing</b></h3></li>
-  <p> I have used scikit-learn's Boston dataset that has a given set of features that describe a house in Boston and our machine learning model must predict the house price. Performed Exploratory Data Analysis on the data and used <u> Linear Regression </u> to predict the target variable. </p>
-
 <li><h3><b> Clustering</b></h3></li>
 <p>This folder contains 3 projects.
   <ol type="a">
