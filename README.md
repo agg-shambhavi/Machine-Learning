@@ -43,10 +43,8 @@ I have used Python 3 in all the projects.<br> I am still working on this reposit
 <li><h3><b>Spam or Ham project</li></h3></b>
 <p>Here, I have used the SMS Spam Collection Dataset. It contains the text of 5572 SMS messages and a label, classifying the message as "spam" or "ham". I have implemented Bag of Words from scratch and then I have used scikit learn's implementation of Bag of Words to transform the entire dataset. Further, I have used the Naive Bayes algorithm to classify the messages into "spam" or "ham".</p>
 
-<li><h3><b>Supervised Learning Project</li></h3></b>
-<p>Here, The is data collected from the U.S. census, to help CharityML (a fictitious charity organization) identify people who are most likely to donate to their cause. Here, we have to predict that if the income of a row is '<=50' or '>50'. I have used 9 different algorithms to check which performs the best on the data and then tuned it according to the dataset.</p>
   
-  <li><h3><b>Titanic Dataset</li></h3></b>
+<li><h3><b>Titanic Dataset</li></h3></b>
 
 
 
